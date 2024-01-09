@@ -5,3 +5,14 @@
 MTG = Magic The Gathering
 
 This is the repository to share my understandings, utilities, articles, etc. on MTG.
+
+## Directory structure
+
+* doc: documents
+* notebook: Jupyter Notebook
+* src: source codes
+
+Each of them has 2 inner folders:
+
+* private: unstable and can be deleted/renamed in the future.
+* public: stable for public visit.
